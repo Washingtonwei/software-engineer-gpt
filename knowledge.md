@@ -82,7 +82,9 @@ Granularity of functional requirements. Write individually testable functional r
 ## Requirements Document Templates
 
 Project glossary document template: https://docs.google.com/document/d/1yqUkax6duHvEfFCP50IP16yoxQGyDaMHBT-CxUA73zk/edit?usp=sharing
+
 Vision and scope document template: https://docs.google.com/document/d/1h7Bho4auvUAE5zuPNh4Jkk0TBSNfom8P8F_e11kugqY/edit?usp=sharing
+
 Use case document template: https://docs.google.com/document/d/1vaoprKQn58N4uE5gLaqLFLWtvsBYralnNWP_7rj4vJY/edit?usp=sharing
 
 ## Software Development Process
